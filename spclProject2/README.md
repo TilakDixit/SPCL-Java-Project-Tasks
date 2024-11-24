@@ -171,10 +171,23 @@ Copy code
         <scope>test</scope>
     </dependency>
 </dependencies>
+
+# Image Gallery
 ## Here are some  result photos included in the repository:
-![photo 3](https://github.com/user-attachments/assets/c257c7ce-2674-4afc-9150-0bb3ba539c5c)
-![photo4](https://github.com/user-attachments/assets/36d47c49-ccbd-423e-b6b2-5dce94f73787)
-![photo 5](https://github.com/user-attachments/assets/6cc4ab27-8c4d-4704-ba1b-55212d81741d)
+
+
+
+### Photo 3
+![photo 3](https://github.com/user-attachments/assets/6794fb45-7e82-45f0-ac89-6efd877441cf)
+
+
+### Photo 4
+![photo4](https://github.com/user-attachments/assets/20afb9fa-2172-448f-bec8-7844a8bf64ad)
+
+
+### Photo 5
+![photo 5](https://github.com/user-attachments/assets/636cc4db-bf77-40f0-b1eb-6cebbb42f5fe)
+
 
 
 
