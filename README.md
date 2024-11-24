@@ -1,4 +1,4 @@
-# JakaIntern Task - RESTful API Implementation
+# Java Internship Task - RESTful API Implementation
 
 This project contains two RESTful APIs implemented as part of the JakaIntern task. The APIs are built using **Spring Boot** and use **MySQL** for database operations.
 
